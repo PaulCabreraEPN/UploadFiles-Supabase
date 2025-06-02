@@ -1,0 +1,7 @@
+{
+  "name": "uploadApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
